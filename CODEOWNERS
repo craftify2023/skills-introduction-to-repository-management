@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @craftify2023
+/src/backend/database.py      @craftify2023
+/src/backend/routers/auth.py  @craftify2023
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @craftify2023
